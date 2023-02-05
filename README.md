@@ -15,13 +15,21 @@ Online profile
 ***
 
 ## Home Page
-[home page image]
+<br>
 
-## Page 2
-[ page 2 image]
+![Alt text](assets/media/Screenshot%20(2595).png)
 
-## Page 3
-[ page 3 image]
+<br>
+
+## Photography Gallery Page
+<br>
+
+![Alt text](assets/media/Screenshot%20(2591).png)
+
+## Image of the Page Footer
+<br>
+
+![Alt text](assets/media/Screenshot%20(2590).png)
 
 
 

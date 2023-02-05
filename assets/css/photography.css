@@ -15,40 +15,11 @@ body {
   /*justify-content: center;
 }*/
 
-/*Main photo container*/
-/*.container-header {
-    height: 20%;
-    width: auto;
-   /* border-color: black;*/
-    /*border-radius: 5px;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    background-image: "assest/images/BPLBannerPic.jpg"
-}*/
- 
-/* Main photo at the top of the page */
-/*.img {  
-  /*margin-left: auto;
-  margin-right: auto;
-  text-align: center;
-  object-fit: fill;*/
- /* width: 200px;
-  height: 200px;
-}*/
 
 /* Welcome intro header */
 * {
   box-sizing: border-box;
 }
-
-/*body {
-  background-color: #a37ec5;
-  padding: 20px;
-  font-family: paprika;
-  color: white;
-}*/
 
 /* Center website */
 .main {
@@ -83,13 +54,13 @@ p {
   margin: 8px -16px;
 }
 
-/* Add padding BETWEEN each column (if you want) */
+/* Added padding between each column  */
 .row,
 .row > .column {
   padding: 8px;
 }
 
-/* Create four equal columns that floats next to each other */
+/* Equal columns that float next to one another */
 .column {
   float: left;
   width: 25%;
@@ -100,16 +71,6 @@ p {
   content: "";
   display: table;
   clear: both;
-}
-
-/* Content */
-.contentMe {
-  display: flex;
-  justify-content: center;
-  margin-left: 50px;
-  margin-right: auto;
-  background-color: rgb(194, 175, 211);
-  padding: 10px;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
@@ -129,6 +90,8 @@ p {
 
 /* Navigation bar background color, size and placement */
 .topnav {
+  display: flex;
+  justify-content: center;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
