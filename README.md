@@ -8,7 +8,7 @@ _Profile for Marie Pacheco_
 Online profile
 
 # PROJECT TITLE
-**Project title** is an application built using HTML, CSS, JS, MySQL, Handlebars.js, Sequelize, Json, typescript, insomnia, prettier, bootstrap, express and node.js, mongodb.
+**Project title** is an application built using HTML, CSS, JS and prettier.
 
 
 ## Images of the deployed website:
